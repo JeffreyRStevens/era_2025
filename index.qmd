@@ -1,5 +1,5 @@
 ---
-title: "Canine Research and the Many Dogs Project"
+title: "Canine Research and the ManyDogs Project"
 # subtitle: "Strange findings in canine cognition studies"
 author: "Jeff Stevens"
 date: ""
